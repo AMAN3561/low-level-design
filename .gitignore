@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# C++ build files
+*.o
+*.out
+a.out
+
+# macOS debug files
+*.dSYM/
+
+# Zip metadata
+__MACOSX/
+build/
